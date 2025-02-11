@@ -23,6 +23,8 @@ Python: 3.10 via Google Colab
 
 vaderSentiment
 
+NRClex
+
 Pandas
 
 Numpy
