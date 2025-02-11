@@ -17,7 +17,7 @@ Output - contains all output generated from data analysis including tables and f
 
 ### Software:
 
-Python: 3.10
+Python: 3.10 via Google Colab
 
 ### Addons: 
 
@@ -36,15 +36,16 @@ tdqm notebook
 Windows 10
 
 ## Section 2: Map of Documentation
-ReadMe
-- 
-Licensing 
-- 
-Scripts
--
-Data
--
-Output
--
+
+README
+
+LICENSE
+
+SCRIPTS
+
+DATA
+
+OUTPUT
+
 
 ## Section 3: Reproducing Results
