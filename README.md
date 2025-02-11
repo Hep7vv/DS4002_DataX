@@ -1,7 +1,7 @@
 ## Contents
 This repo contains data, results, and information regarding Sentiment analysis of the 9 Mainline Star Wars movies. 
 
-including: 
+### including: 
 
 Readme - explanation of the repository
 
@@ -15,11 +15,11 @@ Output - contains all output generated from data analysis including tables and f
 
 ## Section 1: Software and Platform
 
-Software:
+### Software:
 
 Python: 3.10
 
-Addons: 
+### Addons: 
 
 vaderSentiment
 
@@ -31,7 +31,9 @@ matplotlib
 
 tdqm notebook 
 
-Platform: Windows 10
+### Platform:
+
+Windows 10
 
 ## Section 2: Map of Documentation
 ReadMe
