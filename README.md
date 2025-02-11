@@ -45,6 +45,14 @@ SCRIPTS
 
 DATA
 
+- SW_01
+- SW_02
+- SW_03
+- SW_04
+- SW_05
+- SW_06
+- SW_07
+  
 OUTPUT
 
 
