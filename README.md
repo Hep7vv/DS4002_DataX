@@ -33,6 +33,16 @@ matplotlib
 
 tdqm notebook 
 
+nltk
+- punkt
+- wordnet
+- averaged_perceptron_tagger
+- stopwords
+- brown
+- vader_lexicon
+- opinion_lexicon
+- punkt_tab
+
 ### Platform:
 
 Windows 10
