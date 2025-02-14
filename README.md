@@ -55,6 +55,7 @@ LICENSE
 
 SCRIPTS
 
+
 DATA
 
 - SW_01
@@ -67,6 +68,26 @@ DATA
   
 OUTPUT
 
+- anger
+- anticip
+- disgust
+- download
+- ep1
+- ep2
+- ep3
+- ep4
+- ep5
+- ep6
+- ep7
+- fear
+- joy
+- neg
+- pos
+- sad
+- surp
+- trust
+
+References 
 
 ## Section 3: Reproducing Results
 
@@ -86,10 +107,11 @@ For each script use re to clean them, converting all text to lowercase, replace 
 Step 3: Emotional Analysis
 Use the “analyzer.polarity_scores()” command to calculate the VADER compound, positive, negative, and neutral scores for each film. Print the scores for each film.
 Create a new variable for each script that uses NRCLex ex: (episode1_NRC = NRCLex(episode_clean)). Use the command episode_NRC.raw_emotion_scores to get the count of emotion in each movie. Also use the command episode_NRC.affect_frequencies to get the frequency of the emotion throughout each movie. 
-Create a dictionary of the NRC frequencies for each episod and remove the positive and negative emotion. Then set the variable, “max_emotion_episode” to the max emotion frequency from each episode. Print the value.
+Create a dictionary of the NRC frequencies for each episode and remove the positive and negative emotion. Then set the variable, “max_emotion_episode” to the max emotion frequency from each episode. Print the value.
  
 Step 4: Plotting Results
-In separate plots, plot the negative, positive, and neutral sentiment scores for the first trilogy on a bar graph.
+In separate plots, plot the negative, positive, and neutral sentiment scores for the first and second trilogy on a bar graph.
 Create a bar plot with the x-axis being each episode and y-axis being the frequency of an emotion. Make a bar plot for each emotion separately.
 Create a bar plot with the x-axis being each emotion and y-axis being the frequency of an emotion. Make a bar plot for each episode separately. 
+
 
