@@ -82,8 +82,15 @@ OUTPUT
 - fear
 - joy
 - neg
+- original-neg-vader
+- original-neu-vader
+- original-pos-vader
 - pos
+- prequel-neg-vader
+- prequel-neu-vader
+- prequel-pos-vader
 - sad
+- sequel-pos-vader
 - surp
 - trust
 
